@@ -1,10 +1,15 @@
 .buttons button {
     padding: 15px;
     background-color: aquamarine;
+    
 }
 
 .container{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.buttons button:hover{
+    background-color: aliceblue;
 }
