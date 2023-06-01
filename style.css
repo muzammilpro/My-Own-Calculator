@@ -1,6 +1,7 @@
 .buttons button {
-    padding: 15px;
+    padding: 13px;
     background-color: aquamarine;
+    border-radius: 21px;
     
 }
 
@@ -12,4 +13,7 @@
 
 .buttons button:hover{
     background-color: aliceblue;
+}
+.heading{
+    color: aqua;
 }
